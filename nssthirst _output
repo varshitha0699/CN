@@ -1,0 +1,7 @@
+t.sourceAddress=10.1.1.1t.destinationAddress=10.1.1.2Source port:49153 Destination Port:8000
+Flow 1(10.1.1.1->10.1.1.2
+tx Bytes: 168320
+Rx Bytes:168320
+Tx packets:160
+Rx packets:160
+Throughput:0.149618Mbps
